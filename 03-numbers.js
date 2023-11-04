@@ -59,9 +59,8 @@ var number = 35;
 
 console.log(numberAsString + number); // 3035
 console.log(number + numberAsString); // 3530
-// console.log(number + +numberAsString); // 65 El segundo + convierte el string en número
+console.log(number + +numberAsString); // 65 El segundo + convierte el string en número
 
-const numberAsNumber = Number(NumberAsString)
+const numberAsNumber = Number('NumberAsString')
 console.log(number + numberAsNumber)
-
 //Nan (Not a Number)
