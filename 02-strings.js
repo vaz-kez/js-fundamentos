@@ -64,8 +64,9 @@ console.log(myDog)
 
 
 var computerDescription = '   Ordenador muy potente con mucha RAM.  '
-console.log(computerDescription.trim())    //.trim elimina espacios al inicio y final del texto
-// Ordenador muy potente con mucha RAM.
+console.log(computerDescription.trim())   // Ordenador muy potente con mucha RAM. 
+//.trim elimina espacios al inicio y final del texto
+
 
 
 var school = 'The PMBA'
