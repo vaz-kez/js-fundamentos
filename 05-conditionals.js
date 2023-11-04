@@ -1,4 +1,4 @@
-/*
+
 var age = 24
 var canParticipate = false
 
@@ -6,12 +6,12 @@ if (age < 30) {
   canParticipate = true
 }
 console.log(`Puede participar el usuario? ${canParticipate}`)
-*/
+
 
 // Renovar carnet de conducir según la edad
 
 
-/*
+
 var yearsToRenew = 0;
 var driverAge = 60;
 //Cero no tiene valor = no tiene carnet = no es capaz de renovarlo
@@ -35,9 +35,8 @@ if (driverAge > 75) {
 
 console.log(`Se tiene que renovar el carnet cada ${yearsToRenew}`);
 
-*/
 
-/*
+
 var myName = 'Evaristo';
 
 if (myName === 'Marcos') {
@@ -45,10 +44,10 @@ if (myName === 'Marcos') {
 } else {
   console.log('Eres un alumno!');
 }
-*/
 
 
-/*
+
+
 // Los condicionales deben estar ordenados de mayor a menor o viceversa para cumplir las variables
 // && = AND = y  Operator
 // OR = || Operator
@@ -67,7 +66,7 @@ if (time < 8000) {
 }
 
 console.log(`El record es: ${record}`);
-*/
+
 
 var city = 'Madrid';
 var hasCar = false;
