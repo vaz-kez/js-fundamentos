@@ -71,7 +71,7 @@ console.log(`El record es: ${record}`);
 var city = 'Madrid';
 var hasCar = false;
 
-if ((city === 'Madrid' || city = 'Barcelona') && hasCar === false) {
+if ((city === 'Madrid' || city === 'Barcelona') && hasCar === false) {
   console.log("Puede en metro");
 }
 if (city === 'Madrid' && hasCar === false) {
