@@ -57,6 +57,8 @@ if (time < 8000) {
 
 console.log(`El record es: ${record}`);
 
+/////////////////////////////////////////////
+
 var city = "Madrid";
 var hasCar = false;
 
