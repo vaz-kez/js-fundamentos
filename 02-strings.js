@@ -70,8 +70,9 @@ console.log(computerDescription.trim())   // Ordenador muy potente con mucha RAM
 
 
 var school = 'The PMBA'
-var schoolName = school.slice(4) //.slice(posición) Indica donde empieza a mostrar el texto
-//.slice(inicio, fin) Indica donde empieza y donde acaba  
+var schoolName = school.slice(4, 6) //.slice(posición) Indica donde empieza a mostrar el texto
+//.slice(inicio, fin) Indica donde empieza y donde acaba. Toma la primera posición pero no la última. 
 
 console.log(schoolName)
-//PMBA
+//PMBA___school.slice(4)
+//PM_____school.slice(4, 6)
