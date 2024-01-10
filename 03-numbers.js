@@ -36,6 +36,7 @@ console.log(`El resto vale: ${rest}`);
 // Potencia
 var power = 5 ** 2
 console.log(`La potencia vale: ${power}`);
+// 25
 
 
 // Calcula primero los paréntesis y luego el total
@@ -43,10 +44,12 @@ var complexCalculus = 2 + (2 * (4 + 5)) / 5 + 6;
 console.log(complexCalculus);
 // 11.6
 
+
 // Calcula  el total
 var complexCalculus = 2 + 2 * 4 + 5 / 5 + 6;
 console.log(complexCalculus);
 // 17
+
 
 var firstCalc = 2 * 4 + 5;
 var complexCalculus = 2 + firstCalc / 5 + 6;
