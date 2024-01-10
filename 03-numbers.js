@@ -62,8 +62,17 @@ var number = 35;
 
 console.log(numberAsString + number); // 3035
 console.log(number + numberAsString); // 3530
-console.log(number + +numberAsString); // 65 El segundo + convierte el string en número
+//console.log(number + +numberAsString); // 65 El segundo + convierte el string en número. No recomendable
 
-const numberAsNumber = Number('NumberAsString')
-console.log(number + numberAsNumber)
-//Nan (Not a Number)
+const numberAsNumber = Number(numberAsString); // Number convierte el string en número
+console.log(number + numberAsNumber);
+// 65
+
+// Not valid number (Nan)
+var notValidNUmber = Number('_');
+console.log(`El numero no valido es : ${notValidNUmber}`);
+// NaN
+
+// parseInt() devuelve un entero de la cadena, sin considerar decimal
+var integerFromString = parseInt("123abc");
+console.log(`El entero es : ${integerFromString}`)
