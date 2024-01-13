@@ -6,7 +6,7 @@ if () {} else if {} else {}
 
 //switch (city) = if (city ==='.....')
 //else if () = case
-//break = deja de comparar si coincide el case
+//break = rompe el switch y deja de comparar si coincide el case
 //default = cuando no coincide ninguno de los case
 
 var price;
