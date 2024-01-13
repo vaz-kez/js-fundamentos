@@ -13,8 +13,8 @@ var driverAge = 60;
 //Cero no tiene valor = no tiene carnet = no es capaz de renovarlo
 
 
-// && = AND = y  || Operator
-// OR = || Operator
+// && = AND = y  *Operator
+// || = OR  *Operator 
 
 //18 o más y 50 o menos => 10 años
 //más de 50 o menos o igual a 75 => 5 años
@@ -64,8 +64,8 @@ console.log(`El record es: ${record}`);
 /////////////////////////////////////////////
 
 
-// && = AND = y  || Operator
-// OR = || Operator  
+// && = AND = y  *Operator
+// || = OR  *Operator  
 // Cuando combinamos ambos operadores el 'OR ||' debe ir entre otros paréntesis para primero comprobar si se cumple la variable  (var = Madrid)
 // Si hay un 'OR ||' con un (true OR || false) siempre se queda con el TRUE
 
