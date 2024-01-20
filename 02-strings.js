@@ -1,3 +1,5 @@
+// Strings
+
 //var name = "Marcos"
 //var surname = 'Vazquez'
 
