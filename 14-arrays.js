@@ -29,12 +29,12 @@ marks.shift();
 console.log(`Shift:`, marks);
 
 // Añadir un elemento al final del array
-// marks.push(2);
-// console.log(push);
+marks.push(2);
+console.log('Push:', push);
 
 // Eliminar un elemento al final del array
-// marks.pop();
-// console.log('Pop:', pop);
+marks.pop();
+console.log('Pop:', pop);
 
 // Ordenar los valores del array en orden ascendente
 marks.sort((a, b) => a - b);
