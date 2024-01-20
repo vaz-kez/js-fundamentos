@@ -1,3 +1,5 @@
+// Booleans
+
 var trueVar = true;
 console.log(trueVar);
 // True
