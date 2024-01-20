@@ -1,3 +1,5 @@
+// Anonymous and Arrow functions
+
 
 // Función de suma, normal
 function sum(num1, num2) {
