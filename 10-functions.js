@@ -1,3 +1,4 @@
+// Functions
 
 /* "return" fuera de un "if" termina la función, no permite ejecutar el resto del código */
 /* "return" dentro de un "if" devuelve el resultado de ese "if" y no ejecuta más código */
