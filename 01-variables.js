@@ -1,3 +1,5 @@
+// Variables
+
 var greetings = 'hola desde'
 var school = 'pmba'
 
