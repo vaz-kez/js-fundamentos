@@ -1,3 +1,5 @@
+// Numbers
+
 var two = 2;
 var twoWithDecimals = 2.5;
 var negative = -2;
