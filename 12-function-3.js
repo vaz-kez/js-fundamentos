@@ -1,3 +1,5 @@
+// Scope y Shadowing
+
 
 var name = 'Marcos';
 console.log('1. name:', name);
