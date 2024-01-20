@@ -1,4 +1,4 @@
-// Anonymous and Arrow functions
+// 'Anonymous' and 'Arrow' functions
 
 
 // Función de suma, normal
