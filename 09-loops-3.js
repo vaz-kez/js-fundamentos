@@ -1,4 +1,4 @@
-// Bucles / Loops 'do' y 'while'
+// Bucles / Loops 'do' 'while'
 
 var i = 0;
 
