@@ -1,4 +1,4 @@
-
+// Bucle / Loop 'while'
 
 var count = 0;                              // donde empieza la cuenta
 
