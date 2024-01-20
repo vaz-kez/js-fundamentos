@@ -1,10 +1,12 @@
-// // loop for ..... son TRES cosas separades por 'punto' y 'coma'
-// // Se decide un valor máximo que queremos alcanzar
-// // i++ ..... i = i + 1... i += 1 Son las tres variables iguales y nos permite sumar 1 en cada vuelta
+// Bucle / Loop 'for'
 
-// // for (VALOR INICIAL; COMPARACIÓN; OPERACIÓN TRAS CADA LOOP) {
-// // CONTENIDO
-// // }
+// loop 'for' ..... son TRES cosas separades por 'punto' y 'coma'
+// Se decide un valor máximo que queremos alcanzar
+// i++ ..... i = i + 1... i += 1 Son las tres variables iguales y nos permite sumar 1 en cada vuelta
+
+// for (VALOR INICIAL; COMPARACIÓN; OPERACIÓN TRAS CADA LOOP) {
+// CONTENIDO
+// }
 
 for (var i = 0; i < 5; i++) {
   console.log(`El valor de i es: ${i}`);
