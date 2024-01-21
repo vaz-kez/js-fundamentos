@@ -31,7 +31,7 @@ console.log(`Ahora la persona vive en ${person.city}`);
 //////////////////////////////////////////////
 // Clave dinámica
 
-function getKey(object, key); { }
+// function getKey(object, key); { }
 
 const dynamicName = getKey(person, 'name');  // Object-person key-'name'
 const dynamicSurname = getKey(person, 'surname');
