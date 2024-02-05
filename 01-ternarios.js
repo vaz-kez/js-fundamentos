@@ -1,3 +1,4 @@
+
 // Ternarios
 // Los ternarios tienen que ser una cosa u otra....no pueden ser núltiples cosas
 
@@ -20,17 +21,17 @@ age > 30 ? (isAllowed = true) : (isAllowed = false);
 isAllowed = age > 30 ? true : false
 
 
- const numberA = 2;
- const numberB = 4;
- let operation = 'multiply'
+const numberA = 2;
+const numberB = 4;
+let operation = 'multiply'
 
- let result
+let result
 
- if (operation === 'multiply') {
-   result = numberA * numberB
- } else {
-   result = numberA / numberB
- }
+if (operation === 'multiply') {
+  result = numberA * numberB
+} else {
+  result = numberA / numberB
+}
 
 const result = operation === 'multiply' ? numberA * numberB : numberA / numberB
 
